@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**bickrom-shorma/bickrom-shorma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Bickrom Shorma
+Software Engineering Student
+Exploring AI, ML & Python
+Open Source Learner
+---
+## Skills
+- Python
+- C++
+- C
+- Java
+- Git & GitHub
+- Streamlit
+- Data Structures
+- Algorithms
+---
+## Currently Learning
+- Machine Learning
+- Deep Learning
+---
+## Projects
+- Employee Management System
+- Streamlit AI Project
