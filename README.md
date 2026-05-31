@@ -17,6 +17,9 @@ Open Source Learner
 - Streamlit
 - Data Structures
 - Algorithms
+- HTML
+- css
+- javascript
 
 ---
 
